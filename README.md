@@ -2,14 +2,14 @@
 this is the First Homework , which I am using
 
   header tag
-  nav tag
-  article tag
-  section tag
-  main tag
-  aside tag
-  footer tag
-  JS function to "GO TOP" Button
-  Alot of CSS updates.
+  <br> nav tag
+  <br> article tag
+  <br> section tag
+  <br>main tag
+  <br>aside tag
+  <br>footer tag
+  <br>JS function to "GO TOP" Button
+  <br>Alot of CSS features.
 
 
 This page is sample page describing latest trends in Software Industry.
